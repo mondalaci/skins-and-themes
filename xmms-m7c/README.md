@@ -1,7 +1,7 @@
 m7c XMMS Skin
 =============
 
-I were experimenting with a very clean yet elegant look-and-feel and
+I was experimenting with a very clean yet elegant look-and-feel and
 this skin is the result. This piece of work was largely inspired by
 the Opera m 7 skin. It is also based on the unix-clear XMMS skin which
 is loosely based on the minEguE XMMS skin which is loosely based on
