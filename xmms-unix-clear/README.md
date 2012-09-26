@@ -6,6 +6,6 @@ the minEguE XMMS skin which is loosely based on the Enlightenment minEguE theme
 and the Ultrafina XMMS skin.
 
 Thanks to:
- - Andréas Saudemont <asaudemont@voila.fr> for the minEguE XMMS skin.
- - Ben <frantb@rpi.edu> for the Enlightenment minEguE theme.
+ - Andréas Saudemont [asaudemont@voila.fr] for the minEguE XMMS skin.
+ - Ben [frantb@rpi.edu] for the Enlightenment minEguE theme.
  - The unknown author of the XMMS Ultrafina skin.
